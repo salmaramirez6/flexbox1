@@ -17,7 +17,7 @@ body{
     width: 100%;
     min-height: 100vh; /*Altura con respecto al tamaño del dispositivo*/
     display: flex;
-    flex-direction: column; /*paa que se acomodra como columna*/
+    flex-direction: column; /*para que se acomodara como columna*/
     align-items: center;
     justify-content: center;
     padding: 0 1rem; /* rem (root em) es el valor del relleno del espacio izquierdo y derecho*/
